@@ -30,7 +30,10 @@ class AcmeProductTests(unittest.TestCase):
         
 class AcmeReportTest(unittest.TestCase):
     """Assert Class quality of report"""
-    def test_generate_prods(self):
+    def test_generate_prods(self
+        if len(set(product)) < 30:
+            print("Not enough unique products, check random sample")
+    def test_products_weights(self):
         
 
 
